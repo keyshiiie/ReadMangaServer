@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|c:\\users\\acer\\desktop\\readmanga\\readmangaws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|c:\\users\\acer\\desktop\\readmanga\\readmangaws\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|c:\\users\\acer\\desktop\\readmanga\\readmangaws\\controllers\\mangacollectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|solutionrelative:controllers\\mangacollectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|c:\\users\\acer\\desktop\\readmanga\\readmangaws\\controllers\\tegcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|solutionrelative:controllers\\tegcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|c:\\users\\acer\\desktop\\readmanga\\readmangaws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D94BF2-F7D3-4D77-806B-C7ACF1FE3291}|ReadMangaWS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 320,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,20 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T11:27:48.527Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T17:45:19.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PublisherController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\PublisherController.cs",
               "RelativeDocumentMoniker": "Controllers\\PublisherController.cs",
@@ -103,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MangaCollectionController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\MangaCollectionController.cs",
               "RelativeDocumentMoniker": "Controllers\\MangaCollectionController.cs",
@@ -111,12 +115,11 @@
               "RelativeToolTip": "Controllers\\MangaCollectionController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:26:40.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:26:40.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MangaScoreController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\MangaScoreController.cs",
               "RelativeDocumentMoniker": "Controllers\\MangaScoreController.cs",
@@ -124,12 +127,11 @@
               "RelativeToolTip": "Controllers\\MangaScoreController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:26:39.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:26:39.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TegController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\TegController.cs",
               "RelativeDocumentMoniker": "Controllers\\TegController.cs",
@@ -141,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GenreController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\GenreController.cs",
               "RelativeDocumentMoniker": "Controllers\\GenreController.cs",
@@ -149,20 +151,32 @@
               "RelativeToolTip": "Controllers\\GenreController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:26:36.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:26:36.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:11:58.067Z"
+              "WhenOpened": "2025-06-18T17:11:58.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\ReadManga\\ReadMangaWS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:27:48.527Z"
             }
           ]
         },

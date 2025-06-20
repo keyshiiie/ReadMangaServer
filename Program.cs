@@ -44,9 +44,12 @@ builder.Services.AddScoped<IPagesRepository, PagesRepository>();
 builder.Services.AddScoped<IPublisherRepository, PublisherRepository>();
 
 
-// Добавляем чтение порта из переменной окружения
 var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-builder.WebHost.UseUrls($"http://*:{port}");
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(int.Parse(port));
+});
+
 
 // метод создает экземпляр WebApplication на основе настроек, которые были заданы ранее. Теперь приложение готово к запуску
 var app = builder.Build();

@@ -45,3 +45,4 @@ C:\Users\Acer\Desktop\ReadManga\ReadMangaWS\obj\Debug\net9.0\refint\ReadMangaWS.
 C:\Users\Acer\Desktop\ReadManga\ReadMangaWS\obj\Debug\net9.0\ReadMangaWS.pdb
 C:\Users\Acer\Desktop\ReadManga\ReadMangaWS\obj\Debug\net9.0\ReadMangaWS.genruntimeconfig.cache
 C:\Users\Acer\Desktop\ReadManga\ReadMangaWS\obj\Debug\net9.0\ref\ReadMangaWS.dll
+C:\Users\Acer\Desktop\ReadManga\ReadMangaWS\obj\Debug\net9.0\ReadMangaWS.sourcelink.json

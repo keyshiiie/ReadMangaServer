@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadMangaWS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf1f11554ffcc85ae58040cb46534945dfbcc95d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc1ce8716099f8607321866a33e54326b177235")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadMangaWS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadMangaWS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
