@@ -23,11 +23,10 @@ WORKDIR /app
 # Копируем опубликованные файлы из стадии сборки
 COPY --from=build /app/ReadMangaWS/out ./
 
-# Открываем порт 80 (стандартный HTTP порт)
-EXPOSE 80
+# Открываем порт 5000 (или порт, который вы используете в коде)
+EXPOSE 5000
 
-# Устанавливаем переменную окружения ASPNETCORE_URLS, чтобы приложение слушало на порту из переменной PORT или 80 по умолчанию
-ENV ASPNETCORE_URLS=http://*:${PORT:-80}
+# Не задаём ASPNETCORE_URLS здесь, т.к. в коде уже настроен Kestrel на PORT
 
 # Запускаем приложение
 ENTRYPOINT ["dotnet", "ReadMangaWS.dll"]
